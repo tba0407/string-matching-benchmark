@@ -3,7 +3,6 @@
 This repository contains a benchmark suite designed to evaluate and compare the performance behavior of various string matching algorithms on a 2D character grid under extreme load conditions.
 
 ## Algorithms & Implementation Details
-The following algorithms are implemented from scratch in Modern C++ (C++23), utilizing standard STL containers and strictly avoiding `#include <bits/stdc++.h>`:
 * **Naive (Brute Force):** Standard character-by-character 2D search.
 * **Rabin-Karp:** Implemented using a 2D Rolling Hash.
 * **Boyer-Moore:** Utilizes the Bad Character Heuristic.
