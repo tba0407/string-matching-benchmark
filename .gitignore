@@ -1,0 +1,6 @@
+*.exe
+*.log
+stress/
+scen1/
+scen2/
+__pycache__/
